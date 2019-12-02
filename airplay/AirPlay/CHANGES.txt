@@ -1,0 +1,7 @@
+Changes from AirPlay 2 Audio SDK 2.0.4 Beta 3
+======================================
+
+File(s) modified
+--------------------------------------
+AirPlaySDK/Sources/AirPlayCommon.h
+
